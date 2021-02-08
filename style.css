@@ -1,0 +1,6 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: linear-gradient(transparent, black),
+    url("./images/sunset-815270_1280.jpg");
+}
